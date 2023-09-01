@@ -1,0 +1,13 @@
+.image{
+    max-width: 250px;
+    max-height: 250px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+a{
+    color: yellow;
+    font-style: italic;
+}
